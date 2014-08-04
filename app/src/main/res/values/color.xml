@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="enable_color">#ff97ca00</color>
+    <color name="disable_color">#ffbdbdbd</color>
+    <color name="help_color">#ffff7167</color>
+</resources>
